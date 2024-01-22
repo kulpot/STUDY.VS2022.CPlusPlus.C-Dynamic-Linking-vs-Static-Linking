@@ -18,5 +18,8 @@
     <ClCompile Include="Mainer.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="MeOtherCPlusPlusFile.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
